@@ -17,8 +17,8 @@ async def start(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🤖 Update Channel", url="https://t.me/BX_Botz"),
-                        InlineKeyboardButton("✨ Support Group", url="https://t.me/BxSupport"),
+                        InlineKeyboardButton("🎬Movie Channel", url="https://t.me/Mallu_Movie_World"),
+                        InlineKeyboardButton("👥 Movie Group", url="https://t.me/MalluMovies_Grp"),
                     ],
                     
                 ]
@@ -37,8 +37,8 @@ async def help(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🤖 Update Channel", url="https://t.me/BX_Botz"),
-                        InlineKeyboardButton("✨ Support Group", url="https://t.me/BxSupport"),
+                        InlineKeyboardButton("🎬 Movie Channel", url="https://t.me/Mallu_Movie_World"),
+                        InlineKeyboardButton("👥 Movie Group", url="https://t.me/MalluMovies_Grp"),
                     ],
                     
                 ]
@@ -57,8 +57,8 @@ async def about(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🤖 Update Channel", url="https://t.me/BX_Botz"),
-                        InlineKeyboardButton("✨ Support Group", url="https://t.me/BxSupport"),
+                        InlineKeyboardButton("🎬 Movie Channel", url="https://t.me/Mallu_Movie_World"),
+                        InlineKeyboardButton("👥 Movie Group", url="https://t.me/MalluMovies_Grp"),
                     ],
                     
                 ]
