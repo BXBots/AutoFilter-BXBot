@@ -7,20 +7,23 @@ class script(object):
 `You Can't Use Me In Your Groups`
 
 **Please Join Our Movie GROUP 🔻**
+🎖@MalluRockerzzHD
 """
 
 
     HELP_MSG = """Hai 
     Just Add Me Your Groups 🤩. Iam a Best Assistant Filter Bot For You.. 
+    @MalluRockerzzHD
 """
 
 
     ABOUT_MSG = """
 
-🛡️<b> Updates Channel :</b> <a href='https://t.me/MX_Botz'>CLICK TO JOIN</a> 
-🛡️<b> Support Group :</b> <a href='https://t.me/BxSupport'>CLICK TO JOIN</a> 
+🛡️<b> Movie Channel:</b> <a href='https://t.me/https://t.me/MalluRockerzzHD'>🔰CLICK TO JOIN🔰</a> 
+🛡️<b> Movie Group :</b> <a href='https://t.me/MalluMovies_Grp'>🔰CLICK TO JOIN🔰</a> 
 
 
-@B
+
+@MalluRockerzzHD
 
 """
