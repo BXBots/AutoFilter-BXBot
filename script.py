@@ -2,8 +2,11 @@ class script(object):
 
 
     START_MSG = """Hai {}
-Iam a Simple Auto Filter Bot For Telegram Groups.
-Just Add Me In Your Groups & See The Magic.
+ഞാൻ Mallu Movies ഗ്രൂപ്പിൽ വർക്ക് ചെയ്യുന്ന ഒരു അടിപൊളി AutoFilter ബോട്ടാണ്. 
+
+`You Can't Use Me In Your Groups`
+
+**Please Join Our Movie GROUP 🔻**
 """
 
 
@@ -18,6 +21,6 @@ Just Add Me In Your Groups & See The Magic.
 🛡️<b> Support Group :</b> <a href='https://t.me/BxSupport'>CLICK TO JOIN</a> 
 
 
-@BX_Botz
+@B
 
 """
