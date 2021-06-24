@@ -19,7 +19,7 @@ class script(object):
 
     ABOUT_MSG = """
 
-🛡️<b> Movie Channel:</b> <a href='https://t.me/https://t.me/MalluRockerzzHD'>🔰CLICK TO JOIN🔰</a> 
+🛡️<b> Movie Channel:</b> <a href='https://t.me/MalluRockerzzHD'>🔰CLICK TO JOIN🔰</a> 
 🛡️<b> Movie Group :</b> <a href='https://t.me/MalluMovies_Grp'>🔰CLICK TO JOIN🔰</a> 
 
 
